@@ -1,0 +1,54 @@
+body,ul{
+    margin: 0;
+    padding: 0
+}
+body {
+    background: #f5f7fa;
+}
+.cf {
+    clear: both;
+}
+.add-wrap {
+    background: #222;
+    color: #fff;
+    padding: 10px 100px;
+    margin: 0 auto;
+}
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    float: left;
+}
+.add-title {
+    margin-right: 200px;
+}
+.span-right {
+    float:right
+}
+.add-input {
+    width: 425px;
+    border-radius: 5px;
+    border: 1px solid #ced3d9;
+    padding: 5px 10px;
+}
+.process-wrap {
+    margin: 40px auto 0 100px;
+    width: 500px;
+}
+.finish-wrap {
+    margin: 40px auto 0 100px;
+    width: 500px;
+}
+.item-wrap {
+    margin-top: 20px;
+}
+.item {
+    padding: 5px 0;
+    margin-bottom: 10px;
+    background: #fff;
+}
+.icon-del {
+    margin-left: 200px;
+    width: 30px;
+    cursor: pointer;
+}
