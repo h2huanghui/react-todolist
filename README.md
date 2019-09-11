@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##1、npx create-react-app my-todolist
+## 1、npx create-react-app my-todolist
 
 ## Available Scripts
 
